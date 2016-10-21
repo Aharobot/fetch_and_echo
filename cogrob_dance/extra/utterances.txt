@@ -1,0 +1,7 @@
+DanceIntent dance
+DanceIntent dance for me
+DanceIntent can you dance
+DanceIntent make eva dance
+
+ConfirmIntent yes
+ConfirmIntent sure

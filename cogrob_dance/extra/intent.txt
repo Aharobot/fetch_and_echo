@@ -1,0 +1,11 @@
+{
+  "intents": [
+    {
+      "intent": "DanceIntent"
+    },
+    {
+      "intent": "ConfirmIntent"
+    }
+  ]
+}
+
