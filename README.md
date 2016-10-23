@@ -1,9 +1,15 @@
-# echo_and_fetch
+# Echo and Fetch
 
-##Invocation Name
+## Overview
+Echo and Fetch (```echo_and_fetch```) is a ROS node running on the Fetch robot
+that allows user to control the robot. Current user can ask Eva (the name of the
+robot to dance). Echo and Fetch is meant to be a minimal proof-of-concept
+example that Amazon Echo could be useful on robots.
+
+## Invocation Name
 Eva
 
-##Protocol
+## Protocol
 
 1. User: Alexa, start Eva Lane
 2. Alexa: Hi, this is Eva. Your friendly, neighborhood robot.
